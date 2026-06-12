@@ -1,0 +1,16 @@
+ticker,AAPL
+name,Apple Inc.
+sector,Technology
+base_revenue,391035
+revenue_growth,0.06
+ebit_margin,0.315
+tax_rate,0.16
+da_pct_revenue,0.029
+capex_pct_revenue,0.026
+nwc_pct_revenue,0.01
+wacc,0.085
+terminal_growth,0.025
+net_debt,-50000
+shares_outstanding,15000
+current_price,195.40
+projection_years,5
