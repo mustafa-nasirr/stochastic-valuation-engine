@@ -1,0 +1,8 @@
+build/
+valuation
+valuation.exe
+*.o
+*.obj
+output/report.html
+output/distribution.csv
+.DS_Store
